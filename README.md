@@ -1,2 +1,2 @@
-# MatcSci-Aptitude-Hub.2.0
+# MathSci-Aptitude-Hub.2.0
 Your Gateway to Excellence 
